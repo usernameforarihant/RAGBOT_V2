@@ -1,0 +1,44 @@
+[
+  {
+    "role": "user",
+    "content": "what is blog about?"
+  },
+  {
+    "role": "assistant",
+    "content": "The blog appears to discuss the rejection of divisive and nonsensical terms used by certain individuals in the tech community, particularly in relation to the Ruby community. David Heinemeier Hansson expresses frustration with these \"divisive clowns\" and emphasizes the importance of ignoring them and continuing to build. He mentions the overwhelming support from the community against these negative influences, indicating a shift where people feel more empowered to speak out against them. This is highlighted in the quote from Tobi from Shopify about the mental tax on builders caused by such divisive rhetoric.",
+    "sources": [
+      "About David Heinemeier Hansson\n      \n\n\nMade Basecamp and HEY for the underdogs as co-owner and CTO of 37signals. Created Ruby on Rails. Wrote REWORK, It Doesn't Have to Be Crazy at Work, and REMOTE. Won at Le Mans as a racing driver. Invested in Danish startups.\n\n\n\n\n\n      Subscribe to get future posts via email (or grab the RSS feed)\n    \n\n\nSubscribe\n\n\n\n\n\n\nSent to the world with HEY",
+      "said it best:It’s such a terrible mental tax on builders that divisive clowns just ride in and spew these bullshit terms that they clearly don’t understand themselves in bad faith. Ignore & keep building.That's exactly what we're going to do. We're going to reject and ignore these nut jobs. Then we're going to keep building.",
+      "We've all had enough of this nonsense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    David Heinemeier Hansson\n  \n\n\n\n  September 26, 2025\n\n\nWe've all had enough of this nonsense",
+      "taken to X and elsewhere to reject this nonsense, and that's apparently making one of the organizers very sad:So far though, my experience has been that there are many more negative responses than positive. Maybe the Ruby community isn’t the place I thought it was, and MINASWAN was always a lie. That makes me sad. 😢I guess I would be sad too if I had named my group after THE GOOD GUYS and then it turned out that everyone thought I was THE BAD GUYS. But that's exactly what happened. The outpouring of support from all sides has been overwhelming.This is what it looks like when preference falsification finally falls. When normal people are no longer afraid to say no to these people. Then it's revealed just how small and isolated these aggrieved individuals actually are.Tobi from Shopify said it best:It’s such a terrible mental tax on builders that divisive clowns just ride in and spew these bullshit terms that they clearly don’t understand themselves in bad faith. Ignore & keep"
+    ]
+  },
+  {
+    "role": "user",
+    "content": "give me the para where nazi is mentined"
+  },
+  {
+    "role": "assistant",
+    "content": "The paragraph where \"Nazi\" is mentioned is: \"And to add to the outrage theater, they named their little letter after a French resistance action fighting the Nazis during WWII. Subtle!\"",
+    "sources": [
+      "Every few years, the same sad contingent of Ruby malcontents tries to cancel me from Rails. At the peak of the woke era, back in 2022, they were actually successful in getting Ruby Central to uninvite me from doing the yearly keynote at RailsConf. But now RailsConf is dead, Rails World is thriving, and the cancellation nonsense is over.Only I guess nobody told that same sad contingent! Because three days ago, they tried yet again, with the same trite grab bag of accusations: \"he holds racist and transphobic views, as well as a number of other traits undesirable\". And to add to the outrage theater, they named their little letter after a French resistance action fighting the Nazis during WWII. Subtle!Except this time, nobody cared. In fact, quite the opposite. Thousands of people have taken to X and elsewhere to reject this nonsense, and that's apparently making one of the organizers very sad:So far though, my experience has been that there are many more negative responses than",
+      "taken to X and elsewhere to reject this nonsense, and that's apparently making one of the organizers very sad:So far though, my experience has been that there are many more negative responses than positive. Maybe the Ruby community isn’t the place I thought it was, and MINASWAN was always a lie. That makes me sad. 😢I guess I would be sad too if I had named my group after THE GOOD GUYS and then it turned out that everyone thought I was THE BAD GUYS. But that's exactly what happened. The outpouring of support from all sides has been overwhelming.This is what it looks like when preference falsification finally falls. When normal people are no longer afraid to say no to these people. Then it's revealed just how small and isolated these aggrieved individuals actually are.Tobi from Shopify said it best:It’s such a terrible mental tax on builders that divisive clowns just ride in and spew these bullshit terms that they clearly don’t understand themselves in bad faith. Ignore & keep",
+      "We've all had enough of this nonsense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    David Heinemeier Hansson\n  \n\n\n\n  September 26, 2025\n\n\nWe've all had enough of this nonsense",
+      "said it best:It’s such a terrible mental tax on builders that divisive clowns just ride in and spew these bullshit terms that they clearly don’t understand themselves in bad faith. Ignore & keep building.That's exactly what we're going to do. We're going to reject and ignore these nut jobs. Then we're going to keep building."
+    ]
+  },
+  {
+    "role": "user",
+    "content": "who is the creator of facebook?"
+  },
+  {
+    "role": "assistant",
+    "content": "The context does not provide any information about the creator of Facebook. Therefore, I cannot answer that question.",
+    "sources": [
+      "About David Heinemeier Hansson\n      \n\n\nMade Basecamp and HEY for the underdogs as co-owner and CTO of 37signals. Created Ruby on Rails. Wrote REWORK, It Doesn't Have to Be Crazy at Work, and REMOTE. Won at Le Mans as a racing driver. Invested in Danish startups.\n\n\n\n\n\n      Subscribe to get future posts via email (or grab the RSS feed)\n    \n\n\nSubscribe\n\n\n\n\n\n\nSent to the world with HEY",
+      "We've all had enough of this nonsense\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    David Heinemeier Hansson\n  \n\n\n\n  September 26, 2025\n\n\nWe've all had enough of this nonsense",
+      "said it best:It’s such a terrible mental tax on builders that divisive clowns just ride in and spew these bullshit terms that they clearly don’t understand themselves in bad faith. Ignore & keep building.That's exactly what we're going to do. We're going to reject and ignore these nut jobs. Then we're going to keep building.",
+      "taken to X and elsewhere to reject this nonsense, and that's apparently making one of the organizers very sad:So far though, my experience has been that there are many more negative responses than positive. Maybe the Ruby community isn’t the place I thought it was, and MINASWAN was always a lie. That makes me sad. 😢I guess I would be sad too if I had named my group after THE GOOD GUYS and then it turned out that everyone thought I was THE BAD GUYS. But that's exactly what happened. The outpouring of support from all sides has been overwhelming.This is what it looks like when preference falsification finally falls. When normal people are no longer afraid to say no to these people. Then it's revealed just how small and isolated these aggrieved individuals actually are.Tobi from Shopify said it best:It’s such a terrible mental tax on builders that divisive clowns just ride in and spew these bullshit terms that they clearly don’t understand themselves in bad faith. Ignore & keep"
+    ]
+  }
+]

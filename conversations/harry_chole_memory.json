@@ -1,0 +1,24 @@
+[
+  {
+    "role": "user",
+    "content": "contents?"
+  },
+  {
+    "role": "assistant",
+    "content": "The contents of the provided context include:\n\n1. **Personal Information**:\n   - Name: John Doe\n   - Email: johndoe@example.com\n   - Phone: +1 555-123-4567\n   - Location: New York, USA\n\n2. **Professional Summary**:\n   - A detail-oriented Software Engineer with over 5 years of experience in backend development, cloud architecture, and building scalable distributed systems.\n\n3. **Skills**:\n   - Programming Languages: Python, Java, Go\n   - Technologies: REST APIs, Microservices, AWS, Docker, Kubernetes\n   - Databases: PostgreSQL, MongoDB\n   - CI/CD and GitHub Actions\n\n4. **Experience**:\n   - **Software Engineer at TechNova Solutions (2020–Present)**:\n     - Designed and implemented microservices, improving system scalability by 40%.\n     - Developed internal tools that saved over 20 engineering hours weekly.\n     - Worked on API integrations and cloud deployments.\n   - **Backend Developer at CloudByte Systems (2018–2020)**:\n     - Built backend modules in Python and Go.\n     - Improved database performance and query optimization.\n     - Collaborated with DevOps to automate builds and deployments.\n\n5. **Education**:\n   - B.Tech in Computer Science from the University of Boston (2014–2018).",
+    "sources": [
+      "John Doe\n\nEmail: johndoe@example.com\n\nPhone: +1 555-123-4567\n\nLocation: New York, USA\n\nProfessional Summary\n\nDetail-oriented Software Engineer with 5+ years of experience in backend development, cloud architecture, and building scalable distributed systems.\n\nSkills\n\n• Python, Java, Go\n\n• REST APIs & Microservices\n\n• AWS, Docker, Kubernetes\n\n• PostgreSQL, MongoDB\n\n• CI/CD, GitHub Actions\n\nExperience\n\nSoftware Engineer — TechNova Solutions  (2020–Present)\n\n• Designed and implemented microservices improving system scalability by 40%.\n\n• Developed internal tools saving 20+ engineering hours weekly.\n\n• Worked on API integrations and cloud deployments.\n\nBackend Developer — CloudByte Systems  (2018–2020)\n\n• Built backend modules in Python and Go.\n\n• Improved database performance and query optimization.\n\n• Collaborated with DevOps to automate builds and deployments.\n\nEducation\n\nB.Tech in Computer Science — University of Boston (2014–2018)"
+    ]
+  },
+  {
+    "role": "user",
+    "content": "his linkedin?"
+  },
+  {
+    "role": "assistant",
+    "content": "His LinkedIn profile can be found at: https://www.linkedin.com/in/arihantsaxena/",
+    "sources": [
+      "John Doe\n\nEmail: johndoe@example.com\n\nPhone: +1 555-123-4567\n\nhttps://www.linkedin.com/in/arihantsaxena/\n\nLocation: New York, USA\n\nProfessional Summary\n\nDetail-oriented Software Engineer with 5+ years of experience in backend development, cloud architecture, and building scalable distributed systems.\n\nSkills\n\n• Python, Java, Go\n\n• REST APIs & Microservices\n\n• AWS, Docker, Kubernetes\n\n• PostgreSQL, MongoDB\n\n• CI/CD, GitHub Actions\n\nExperience\n\nSoftware Engineer — TechNova Solutions  (2020–Present)\n\n• Designed and implemented microservices improving system scalability by 40%.\n\n• Developed internal tools saving 20+ engineering hours weekly.\n\n• Worked on API integrations and cloud deployments.\n\nBackend Developer — CloudByte Systems  (2018–2020)\n\n• Built backend modules in Python and Go.\n\n• Improved database performance and query optimization.\n\n• Collaborated with DevOps to automate builds and deployments.\n\nEducation\n\nB.Tech in Computer Science — University of Boston (2014–2018)"
+    ]
+  }
+]

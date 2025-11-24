@@ -1,0 +1,74 @@
+Complex Test Document
+
+This is a randomly generated complex text file meant for testing RAG
+pipelines. It includes multiple sections, nested lists, timestamps, code
+snippets, tables, and unusual sentence structures.
+
+------------------------------------------------------------------------
+
+1. Abstract
+
+In a world where distributed computing intersects with cognitive
+retrieval systems, this document aims to simulate the type of textual
+irregularities often found in real-world data ingestion workflows.
+
+------------------------------------------------------------------------
+
+2. Random Paragraphs
+
+The oscillation of dynamic frameworks continues to accelerate,
+especially when asynchronous modules behave unexpectedly.
+Meanwhile, semantic embeddings navigate through latent vector spaces,
+seeking structures unbeknownst to traditional indexers.
+
+Another paragraph, deliberately convoluted:
+“Should one attempt to recalibrate the quantum ledger, it becomes
+necessary to acknowledge the bifurcation of metadata streams and
+probabilistic token hierarchies.”
+
+------------------------------------------------------------------------
+
+3. Nested Lists
+
+-   Primary Node A
+    -   Sub-node A1
+        -   Sub-sub-node A1.x
+        -   Sub-sub-node A1.y
+    -   Sub-node A2
+-   Primary Node B
+    -   Sub-node B1
+
+------------------------------------------------------------------------
+
+4. Timestamps & Logs
+
+    [2025-11-25 14:23:11] PROCESS_INIT -> Module Alpha
+    [2025-11-25 14:23:12] FETCH_VECTOR -> 1536 dimensions
+    [2025-11-25 14:23:14] WARNING -> Embedding drift detected
+    [2025-11-25 14:23:18] RETRY -> Attempt 1 of 3
+
+------------------------------------------------------------------------
+
+5. Table
+
+  Key   Value    Notes
+  ----- -------- ---------------------
+  A12   983.22   Stable
+  B44   14.7     Requires Validation
+  X91   0.003    Extreme Outlier
+
+------------------------------------------------------------------------
+
+6. Code Snippet
+
+    def vector_normalize(vec):
+        mag = sum(v*v for v in vec) ** 0.5
+        return [round(v / mag, 4) for v in vec]
+
+------------------------------------------------------------------------
+
+7. Closing Remarks
+
+If this file is processed successfully by your RAG pipeline, it should
+demonstrate that multi-structured, high-variance textual data is
+correctly chunked, embedded, and retrieved.

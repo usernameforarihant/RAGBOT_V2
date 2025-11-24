@@ -1,0 +1,38 @@
+[
+  {
+    "role": "user",
+    "content": "show me the linkedin"
+  },
+  {
+    "role": "assistant",
+    "content": "The provided context does not include any information about a LinkedIn profile.",
+    "sources": [
+      "Projects Undertaken\n\n• Built a Retrieval-Augmented Generation (RAG) Chatbot capable of retrieving and generating context-based responses.\n• Worked on multiple data analytics case studies involving data cleaning, visualization, and predictive modeling.\n• Developed an end-to-end Score Predictor web app using Flask and machine learning pipelines.\n• Gained a strong understanding of machine learning algorithms, evaluation metrics, and model deployment.\n\nThrough these projects, I’ve developed the technical and problem-solving skills necessary to contribute effectively as a Software Engineer. I am confident that my enthusiasm to learn and ability to adapt quickly will allow me to excel in any technology I am trained on.\n\n\n\nGithub- https://github.com/usernameforarihant",
+      "Internship/Training Experience Statement\n\nI may not have formal industry experience yet, but I have built a strong foundation in programming, data analysis, and machine learning through hands-on projects and practical learning.\n\nKey Skills and Knowledge\n\n• Proficient in Python, SQL, and programming fundamentals.\n• Strong understanding of data structures, algorithms, and relational databases.\n• Experience working with Flask, Streamlit, Scikit-learn, Pandas, NumPy, and Matplotlib.\n• Basic knowledge of React, Node.js, and API integration.\n• Familiar with version control (Git) and cloud platforms (AWS, Azure).\n\nProjects Undertaken"
+    ]
+  },
+  {
+    "role": "user",
+    "content": "any projects?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, several projects have been undertaken, including:\n\n1. Built a Retrieval-Augmented Generation (RAG) Chatbot capable of retrieving and generating context-based responses.\n2. Worked on multiple data analytics case studies involving data cleaning, visualization, and predictive modeling.\n3. Developed an end-to-end Score Predictor web app using Flask and machine learning pipelines.\n\nThese projects helped in developing technical and problem-solving skills relevant to a Software Engineer role.",
+    "sources": [
+      "Projects Undertaken\n\n• Built a Retrieval-Augmented Generation (RAG) Chatbot capable of retrieving and generating context-based responses.\n• Worked on multiple data analytics case studies involving data cleaning, visualization, and predictive modeling.\n• Developed an end-to-end Score Predictor web app using Flask and machine learning pipelines.\n• Gained a strong understanding of machine learning algorithms, evaluation metrics, and model deployment.\n\nThrough these projects, I’ve developed the technical and problem-solving skills necessary to contribute effectively as a Software Engineer. I am confident that my enthusiasm to learn and ability to adapt quickly will allow me to excel in any technology I am trained on.\n\n\n\nGithub- https://github.com/usernameforarihant",
+      "Internship/Training Experience Statement\n\nI may not have formal industry experience yet, but I have built a strong foundation in programming, data analysis, and machine learning through hands-on projects and practical learning.\n\nKey Skills and Knowledge\n\n• Proficient in Python, SQL, and programming fundamentals.\n• Strong understanding of data structures, algorithms, and relational databases.\n• Experience working with Flask, Streamlit, Scikit-learn, Pandas, NumPy, and Matplotlib.\n• Basic knowledge of React, Node.js, and API integration.\n• Familiar with version control (Git) and cloud platforms (AWS, Azure).\n\nProjects Undertaken"
+    ]
+  },
+  {
+    "role": "user",
+    "content": "education?"
+  },
+  {
+    "role": "assistant",
+    "content": "The provided context does not contain any information about education.",
+    "sources": [
+      "Internship/Training Experience Statement\n\nI may not have formal industry experience yet, but I have built a strong foundation in programming, data analysis, and machine learning through hands-on projects and practical learning.\n\nKey Skills and Knowledge\n\n• Proficient in Python, SQL, and programming fundamentals.\n• Strong understanding of data structures, algorithms, and relational databases.\n• Experience working with Flask, Streamlit, Scikit-learn, Pandas, NumPy, and Matplotlib.\n• Basic knowledge of React, Node.js, and API integration.\n• Familiar with version control (Git) and cloud platforms (AWS, Azure).\n\nProjects Undertaken",
+      "Projects Undertaken\n\n• Built a Retrieval-Augmented Generation (RAG) Chatbot capable of retrieving and generating context-based responses.\n• Worked on multiple data analytics case studies involving data cleaning, visualization, and predictive modeling.\n• Developed an end-to-end Score Predictor web app using Flask and machine learning pipelines.\n• Gained a strong understanding of machine learning algorithms, evaluation metrics, and model deployment.\n\nThrough these projects, I’ve developed the technical and problem-solving skills necessary to contribute effectively as a Software Engineer. I am confident that my enthusiasm to learn and ability to adapt quickly will allow me to excel in any technology I am trained on.\n\n\n\nGithub- https://github.com/usernameforarihant"
+    ]
+  }
+]
