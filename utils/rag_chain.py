@@ -20,7 +20,7 @@ class RAGChain:
         self,
         vector_store: Chroma,
         model_name: str = "gpt-4o-mini",
-        temperature: float = 0.0,
+        temperature: float = 0.2,
         k: int = 4
     ):
         """
@@ -49,22 +49,21 @@ class RAGChain:
         )
         
         # Create prompt template (simple version without chat history in template)
-        self.prompt = ChatPromptTemplate.from_template("""You are a helpful assistant that answers questions based on the provided context.
-
-Use the following context to answer the user's question. If you cannot find the answer in the context, say so clearly.
+        self.prompt = ChatPromptTemplate.from_template("""You are a highly reliable RAG assistant. Your only job is to answer the user's question strictly using the information provided in the context.
+Instructions:
+- Use only the information found in the context below.
+- If the answer cannot be found in the context, clearly state that the context does not provide the required information.
+- Keep answers precise, concise, and factual.
+- When possible, reference or quote specific portions of the context to support your answer.
 
 Context:
 {context}
 
-Question: {question}
+User Question:
+{question}
 
-Guidelines:
-- Only use information from the provided context
-- Be precise and concise
-- If the context doesn't contain relevant information, acknowledge it
-- Cite specific parts of the context when possible
-
-Answer:""")
+Answer:
+""")
     
     def format_docs(self, docs):
         """Format retrieved documents into a single string."""
