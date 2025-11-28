@@ -1,0 +1,40 @@
+# ------------------------
+# Python cache
+# ------------------------
+__pycache__/
+*.pyc
+
+# ------------------------
+# Virtual environments
+# ------------------------
+venv/
+env/
+ragvenv*/         # matches any folder starting with "ragvenv"
+*.env             # ignores any file ending with .env
+.env              # ignores the exact file named .env
+.ragvenv3/        # exact folder
+
+# ------------------------
+# Streamlit
+# ------------------------
+.streamlit/
+
+# ------------------------
+# ChromaDB / database
+# ------------------------
+vector_store/
+chroma/
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+
+# ------------------------
+# Logs
+# ------------------------
+*.log
+
+# ------------------------
+# OS files
+# ------------------------
+.DS_Store
+Thumbs.db
